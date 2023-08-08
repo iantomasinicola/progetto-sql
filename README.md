@@ -5,8 +5,8 @@ In un laboratorio chimico è stato introdotto un nuovo macchinario per eseguire 
 
 Sono interessate dal macchinario le molecole:
 
-il cui nome inizia AB e finisce con D;
-il cui nome inizia con F e NON finisce per P.
+- il cui nome inizia AB e finisce con D;
+- il cui nome inizia con F e NON finisce per P.
 
 Il macchinario è stato introdotto in data 1 maggio 2020.
 
